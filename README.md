@@ -16,7 +16,7 @@ Medical Report Normalization Service
 назначения
 
 эпикризы
-
+ 
 Этот текст:
 
 трудно анализировать
