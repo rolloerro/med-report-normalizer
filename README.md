@@ -9,7 +9,7 @@ Medical Report Normalization Service
 
 выписки
 
-протоколы осмотров
+протоколы осмотров 
 
 заключения
 
